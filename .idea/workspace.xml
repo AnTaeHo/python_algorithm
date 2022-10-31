@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4584677c-27d3-48b4-9151-7ebba245b742" name="Changes" comment="Changes" />
+    <list default="true" id="4584677c-27d3-48b4-9151-7ebba245b742" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/12412.py" beforeDir="false" afterPath="$PROJECT_DIR$/11402_P5.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -75,8 +77,16 @@
       <workItem from="1667222045369" duration="425000" />
       <workItem from="1667222655138" duration="97000" />
       <workItem from="1667222756723" duration="134000" />
-      <workItem from="1667222895511" duration="804000" />
+      <workItem from="1667222895511" duration="1132000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes">
+      <created>1667223888265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667223888265</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +109,7 @@
       <path value="$PROJECT_DIR$/.." />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
 </project>
